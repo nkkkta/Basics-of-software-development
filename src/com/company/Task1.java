@@ -12,7 +12,6 @@ public class Task1 {
         double b = console.nextDouble();
         System.out.print("C is equals: ");
         double c = console.nextDouble();
-        double FofX = ((a - 3 * b/2) + c);
         System.out.println("Vector of variables : " + "{ " + a + " " + b + " " + c + " " + "}");
         System.out.println("Function: z = ((a - 3) * b / 2) + c" );
         System.out.println("Result: " + ((a - 3) * b/2) + c);
