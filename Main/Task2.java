@@ -1,8 +1,5 @@
-package com.company;
-
 import java.util.Scanner;
-import static java.lang.Math.pow;
-import static java.lang.Math.sqrt;
+import static java.lang.Math.*;
 
 //Вычислить значение выражения по формуле: (b + sqrt(b^2 + 4ac))/2a - a^3*c + b^-2
 public class Task2 {
