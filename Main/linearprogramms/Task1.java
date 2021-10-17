@@ -1,3 +1,4 @@
+package linearprogramms;
 
 import java.util.Scanner;
 
