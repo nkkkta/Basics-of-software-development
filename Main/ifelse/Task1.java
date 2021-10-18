@@ -1,5 +1,6 @@
 package ifelse;
-
+//По двум заданным углам определить существует ли треугольник
+//Если существует, то проверить является ли он прямым
 public class Task1 {
     public static void main(String[] args) {
         double Angle1 = 90;

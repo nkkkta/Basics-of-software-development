@@ -1,7 +1,7 @@
 package linearprogramms;
 
 import static java.lang.Math.random;
-
+//Дано вещественное число в формате aaa.bbb преобразовать в число вида bbb.aaa
 public class Task4 {
     public static void main(String[] args) {
         double intPart = (int)(100 + random() * 900);//генерация тестов

@@ -1,6 +1,7 @@
 package linearprogramms;
 
 public class Task5 {
+    //Дано количество секунд перевести их в формат hh:mm:ss
     public static void main(String[] args) {
         int totalSeconds = 366537360;
         int seconds = totalSeconds %60;

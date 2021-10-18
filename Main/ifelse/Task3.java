@@ -1,7 +1,7 @@
 package ifelse;
 
 import java.util.Scanner;
-
+//Определить лежат ли три точки на одной прямой
 public class Task3 {
     public static void main(String[] args) {
         Scanner console = new Scanner(System.in);

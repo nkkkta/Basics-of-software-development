@@ -3,7 +3,7 @@ package ifelse;
 import java.util.Scanner;
 
 import static java.lang.Math.*;
-
+//Найти max(min(a,b),min(c,d))
 public class Task2 {
     public static void main(String[] args) {
         Scanner console = new Scanner(System.in);
