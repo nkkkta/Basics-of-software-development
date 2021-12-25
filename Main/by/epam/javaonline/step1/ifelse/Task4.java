@@ -1,4 +1,4 @@
-package ifelse;
+package by.epam.javaonline.step1.ifelse;
 
 public class Task4 {
    /* A,B - размеры прямоугольного отверстия
@@ -8,8 +8,10 @@ public class Task4 {
         double x = 4;
         double y = 3;
         double z = 3;
+
         double A = 2;
         double B = 3;
+
         if((x <= A && y <= B)||(x <= B && y <=A)){
             System.out.println("This break is suitable");
         }

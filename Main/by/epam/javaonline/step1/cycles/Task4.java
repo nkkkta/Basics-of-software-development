@@ -1,4 +1,4 @@
-package cycles;
+package by.epam.javaonline.step1.cycles;
 
 import java.math.BigInteger;
 //Найти произведение квадратов первых двухста чисел

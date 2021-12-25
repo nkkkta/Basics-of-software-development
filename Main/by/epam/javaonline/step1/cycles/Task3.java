@@ -1,4 +1,4 @@
-package cycles;
+package by.epam.javaonline.step1.cycles;
 import static java.lang.Math.*;
 //Найти сумму квадратов первых ста чисел
 public class Task3 {
