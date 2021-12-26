@@ -1,5 +1,5 @@
 package by.epam.javaonline.step2.matrix;
-
+//Дана матрица. Вывести на экран все нечетные столбцы, у которых первый элемент больше последнего.
 public class Task1 {
     public static void main(String[] args) {
         int rows = 1 + (int)(Math.random()*10);

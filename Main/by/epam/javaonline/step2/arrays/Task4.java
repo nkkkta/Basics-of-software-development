@@ -1,6 +1,5 @@
 package by.epam.javaonline.step2.arrays;
-
-import java.util.Scanner;
+//Даны действительные числа а1 ,а2 ,..., аn . Поменять местами наибольший и наименьший элементы.
 public class Task4 {
     public static void main(String[] args) {
         double[]array = {-100,100,3,4,-6,120,7,12,-609,23};

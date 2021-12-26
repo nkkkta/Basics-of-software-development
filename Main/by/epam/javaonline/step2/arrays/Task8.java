@@ -1,5 +1,7 @@
 package by.epam.javaonline.step2.arrays;
-
+//Дана последовательность целых чисел а1, а2 ....., аn.
+//Образовать новую последовательность, выбросив из исходной те члены, которые равны
+//min(a1,a2,.....an)
 public class Task8 {
     public static void main(String[] args) {
         int length = 1 + (int) (Math.random() * 10);

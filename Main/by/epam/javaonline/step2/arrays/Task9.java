@@ -1,5 +1,6 @@
 package by.epam.javaonline.step2.arrays;
-
+//В массиве целых чисел с количеством элементов n найти наиболее часто встречающееся число. Если таких
+//чисел несколько, то определить наименьшее из них.
 public class Task9 {
     public static void main(String[] args){
         int length = 1 + (int)(Math.random() * 10);

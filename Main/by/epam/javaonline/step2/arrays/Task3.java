@@ -1,5 +1,6 @@
 package by.epam.javaonline.step2.arrays;
-
+//Дан массив действительных чисел, размерность которого N. Подсчитать, сколько в нем отрицательных,
+//положительных и нулевых элементов.
 public class Task3 {
     public static void main(String[] args) {
         double[]array = {0,1,0,1,3,-3,-4,67,9.2};

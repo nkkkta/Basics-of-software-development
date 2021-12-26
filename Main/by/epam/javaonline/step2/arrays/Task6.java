@@ -1,5 +1,6 @@
 package by.epam.javaonline.step2.arrays;
-
+//Задана последовательность N вещественных чисел. Вычислить сумму чисел, порядковые номера которых
+//являются простыми числами.
 public class Task6 {
     public static void main(String[] args){
         boolean isPrime;

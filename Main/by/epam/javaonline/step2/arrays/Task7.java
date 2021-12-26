@@ -1,5 +1,6 @@
 package by.epam.javaonline.step2.arrays;
-
+//Даны действительные числа а1,а2....а2n. Найти:
+//max(a1+a2n,a2+(a2n-1)......an+(an+1))
 public class Task7 {
     public static void main(String[] args) {
         int length = 2 + ((int)(Math.random() * 5))*2;//from 2 to 10
